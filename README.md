@@ -45,7 +45,7 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 
 * Delivered **200+ live websites and production applications**
 * Build **scalable APIs, backend services, dashboards, SaaS platforms, and automation systems**
-* Work across **JavaScript, TypeScript, Java, Python, Go, PHP**, and modern frameworks
+* Work across **PHP (Laravel, Livewire), Alpine.js, JavaScript, TypeScript (React, Next.js), Python**, and modern frameworks
 * Design **database architectures, authentication systems, CI/CD pipelines, cloud infrastructure, and deployment workflows**
 * Engineer software with a strong focus on **performance, security, scalability, maintainability, and production reliability**
 
@@ -58,8 +58,8 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 <table>
   <tr>
     <td width="50%">
-      <h3>Full-Stack Products</h3>
-      <p>Web applications, SaaS platforms, admin panels, dashboards, e-commerce systems, landing pages, and business-focused products built for real-world use.</p>
+      <h3>Full-Stack & Web Products</h3>
+      <p>Web applications, SaaS platforms, CRM systems, e-commerce, and business portals built with Laravel, Livewire, Alpine.js, React, and Next.js.</p>
     </td>
     <td width="50%">
       <h3>Backend & System Architecture</h3>
@@ -72,8 +72,8 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
       <p>Docker, Kubernetes, CI/CD, Linux servers, Nginx, AWS, GCP, Terraform, Ansible, monitoring, deployment automation, and production infrastructure.</p>
     </td>
     <td width="50%">
-      <h3>Mobile & Application Development</h3>
-      <p>Flutter, Dart, Kotlin, Swift, Android Studio, Gradle, cross-platform applications, native development, and end-to-end app delivery.</p>
+      <h3>Enterprise AI & Automation</h3>
+      <p>Custom LLM integrations, RAG pipelines, OCR intelligence, intelligent chatbots, and autonomous workflow automation systems.</p>
     </td>
   </tr>
 </table>
@@ -86,6 +86,8 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
   <tr>
     <td width="24%" align="center"><b>🌐 Frontend & UI</b></td>
     <td>
+      <a href="https://livewire.laravel.com/"><img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" /></a>
+      <a href="https://alpinejs.dev/"><img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js" /></a>
       <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
       <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
       <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -100,13 +102,13 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
   <tr>
     <td width="24%" align="center"><b>⚙️ Backend & APIs</b></td>
     <td>
+      <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+      <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
       <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
       <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
       <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /></a>
       <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
       <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
-      <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /></a>
-      <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" /></a>
       <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
       <a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /></a>
     </td>
@@ -114,12 +116,12 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
   <tr>
     <td width="24%" align="center"><b>💻 Core Languages</b></td>
     <td>
+      <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
       <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
       <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></a>
-      <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
       <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
       <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
     </td>
@@ -174,16 +176,73 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 
 ---
 
-## Selected Repositories
+## Featured Live Projects
 
-| Repository | Focus | Primary language |
-| --- | --- | --- |
-| [vscode-markdown-to-pdf](https://github.com/codewithritik02/vscode-markdown-to-pdf) | Instant live preview in browser with native Print to PDF support for VSCode | TypeScript |
-| [shortcuts-chrome-extension](https://github.com/codewithritik02/shortcuts-chrome-extension) | Powerful text expansion tool that transforms typing experience | JavaScript |
-| [rohit-ecommerce](https://github.com/codewithritik02/rohit-ecommerce) | Full-stack e-commerce marketplace platform | TypeScript |
-| [Wholesale--Management-System](https://github.com/codewithritik02/Wholesale--Management-System) | Wholesale inventory & business management system | PHP |
-| [AI-Study-Planner](https://github.com/codewithritik02/AI-Study-Planner) | Intelligent study scheduling & productivity web app | JavaScript |
-| [Edtech_exams_prototype](https://github.com/codewithritik02/Edtech_exams_prototype) | Online examination & student evaluation platform prototype | JavaScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://www.britannicabots.com/">Britannica Bots</a></h3>
+      <p><b>Enterprise AI & Intelligent Automation Solutions Platform</b></p>
+      <p>Enterprise AI and automation platform delivering custom LLM integrations, Retrieval-Augmented Generation (RAG) architecture, OCR intelligence, multi-channel smart bots, and autonomous enterprise workflow automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/AI%20%26%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI & LLMs" />
+      </p>
+      <p>🔗 <a href="https://www.britannicabots.com/"><b>Visit britannicabots.com →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://unibridgecrm.com/">UniBridge CRM</a></h3>
+      <p><b>Higher Education & University Admissions CRM Platform</b></p>
+      <p>Comprehensive academic admissions & operational CRM built for international institutions (such as BIMI). Features dedicated role-based portals for Students, Agents, Counsellors, and Administrators, with real-time application pipelines, document verification, commission tracking, and analytics dashboards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+      </p>
+      <p>🔗 <a href="https://unibridgecrm.com/"><b>Visit unibridgecrm.com →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏔️ <a href="https://anmolyatra.com/">Anmol Yatra</a></h3>
+      <p><b>Uttarakhand Tour Packages & Pilgrimage Travel Portal</b></p>
+      <p>Full-featured travel agency and transportation booking portal based in Rishikesh. Provides Char Dham Yatra pilgrimage packages, private taxi and Tempo Traveller rental bookings, customizable Himalayan itineraries, dynamic quote generation, and lead management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+      <p>🔗 <a href="https://anmolyatra.com/"><b>Visit anmolyatra.com →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://justeducation.in/">JustEducation</a></h3>
+      <p><b>National College Discovery & Education Search Portal</b></p>
+      <p>High-traffic educational portal cataloging 15,000+ top colleges, universities, and coaching centers across India. Enables prospective students to search, filter, and compare institutes by stream, entrance exams, rankings, fee structures, verified placement reviews, and book career counselling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      </p>
+      <p>🔗 <a href="https://justeducation.in/"><b>Visit justeducation.in →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+| Project | Domain | Overview & Core Capabilities | Live URL |
+| :--- | :--- | :--- | :--- |
+| **[Britannica Bots](https://www.britannicabots.com/)** | Enterprise AI & Automation | Custom LLM integrations, RAG architecture, OCR intelligence, automated workflows, and smart bots | [britannicabots.com](https://www.britannicabots.com/) |
+| **[UniBridge CRM](https://unibridgecrm.com/)** | Higher Education Admissions CRM | Multi-role portals (Students/Agents/Admins), application tracking, commission engine, document verification | [unibridgecrm.com](https://unibridgecrm.com/) |
+| **[Anmol Yatra](https://anmolyatra.com/)** | Travel & Pilgrimage Portal | Char Dham Yatra tours, private taxi & Tempo Traveller fleet rentals, customizable Himalayan itineraries | [anmolyatra.com](https://anmolyatra.com/) |
+| **[JustEducation](https://justeducation.in/)** | College Discovery & Search | Directory of 15,000+ colleges & coaching centers, entrance exams, fee comparison, verified student reviews | [justeducation.in](https://justeducation.in/) |
 
 ---
 
@@ -215,13 +274,13 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 
 ---
 
-## Contribution Snake
+## Pacman Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/github-contribution-grid-snake-dark.svg?v=2026.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/github-contribution-grid-snake.svg?v=2026.5" />
-    <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/github-contribution-grid-snake.svg?v=2026.5" alt="Snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </p>
 
