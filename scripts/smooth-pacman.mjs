@@ -16,13 +16,11 @@ function smoothPacman(filePath) {
 
   let svg = fs.readFileSync(filePath, 'utf8');
 
-  // 1. Add viewBox and responsive scaling so browser can GPU-render without lagging/hanging
-  if (!svg.includes('viewBox=')) {
-    svg = svg.replace(
-      /<svg\s+width="1166"\s+height="184"/,
-      '<svg viewBox="0 0 1166 184" width="100%" height="100%" style="max-width: 100%; height: auto;"'
-    );
-  }
+  // 1. Add viewBox to the root <svg> tag if missing so browser can GPU-render and scale without lagging
+  svg = svg.replace(
+    /<svg\s+width="1166"\s+height="184"/,
+    '<svg viewBox="0 0 1166 184" width="1166" height="184"'
+  );
 
   // 2. Scale all animation durations to remove stuttering (5 FPS crawl -> 22+ FPS smooth motion)
   svg = svg.replace(/dur="(\d+(?:\.\d+)?)(ms|s)"/g, (match, val, unit) => {
