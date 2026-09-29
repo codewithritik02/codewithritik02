@@ -24,6 +24,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: codewithritik02
+          player_style: aggressive
+
+      - name: Optimize & Smooth Pacman Animation
+        run: node scripts/smooth-pacman.mjs
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
