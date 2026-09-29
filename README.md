@@ -12,24 +12,27 @@
   <img src="https://komarev.com/ghpvc/?username=codewithritik02&label=Profile%20Views&color=0070f3&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p>
+<p align="center">
+  <a href="https://ritiksaini.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ritik-saini-web-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ritik%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdoMi43NFYxMC45SDYuNDZNNy44MyA2LjQ1YTEuNjQgMS42NCAwIDEgMCAxLjY0IDEuNjNjMC0uOS0uNzQtMS42My0xLjY0LTEuNjNaIi8+PC9zdmc+&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/codewithritik02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/intent/follow?screen_name=ritikksaini" target="_blank">
-    <img src="https://img.shields.io/badge/X-@ritikksaini-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="mailto:contact.ritiksaini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact.ritiksaini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ritiksaini.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ritiksaini.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/ritiksaini.rs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ritiksaini.rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com/users/930532968487845928" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Ritik%20Saini-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/ritiksaini.rs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -297,26 +300,30 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 ## Connect With Me
 
 <p align="center">
+  <i>Have a project in mind, want to collaborate, or just want to say hi? Let's connect!</i>
+</p>
+
+<p align="center">
+  <a href="https://ritiksaini.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ritik-saini-web-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ritik%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdoMi43NFYxMC45SDYuNDZNNy44MyA2LjQ1YTEuNjQgMS42NCAwIDEgMCAxLjY0IDEuNjNjMC0uOS0uNzQtMS42My0xLjY0LTEuNjNaIi8+PC9zdmc+&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/codewithritik02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/intent/follow?screen_name=ritikksaini" target="_blank">
-    <img src="https://img.shields.io/badge/X-@ritikksaini-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="mailto:contact.ritiksaini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact.ritiksaini%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/codewithritik02">
-    <img src="https://img.shields.io/badge/GitHub-codewithritik02-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://ritiksaini.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ritiksaini.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.instagram.com/ritiksaini.rs/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ritiksaini.rs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.com/users/930532968487845928" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Ritik%20Saini-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/ritiksaini.rs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
