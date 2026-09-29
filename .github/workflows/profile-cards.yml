@@ -1,0 +1,50 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-cards.mjs"
+      - ".github/workflows/profile-cards.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: |
+          node scripts/generate-cards.mjs
+          node scripts/update-3d-contrib.mjs
+
+      - name: Push generated files
+        run: |
+          git config --global user.name 'codewithritik02'
+          git config --global user.email 'contact.ritiksaini@gmail.com'
+          git pull --rebase --autostash
+          git add output/ profile-3d-contrib/
+          git commit -m 'chore: refresh profile stat cards' || echo "No changes to commit"
+          git push
