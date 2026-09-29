@@ -181,17 +181,17 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://www.britannicabots.com/">Britannica Bots</a></h3>
-      <p><b>Enterprise AI & Intelligent Automation Solutions Platform</b></p>
-      <p>Enterprise AI and automation platform delivering custom LLM integrations, Retrieval-Augmented Generation (RAG) architecture, OCR intelligence, multi-channel smart bots, and autonomous enterprise workflow automation.</p>
+      <h3>📚 <a href="https://justeducation.in/">JustEducation</a></h3>
+      <p><b>National College Discovery & Education Search Portal</b></p>
+      <p>High-traffic educational portal cataloging 15,000+ top colleges, universities, and coaching centers across India. Enables prospective students to search, filter, and compare institutes by stream, entrance exams, rankings, fee structures, verified placement reviews, and book career counselling.</p>
       <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/AI%20%26%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI & LLMs" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       </p>
-      <p>🔗 <a href="https://www.britannicabots.com/"><b>Visit britannicabots.com →</b></a></p>
+      <p>🔗 <a href="https://justeducation.in/"><b>Visit justeducation.in →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://unibridgecrm.com/">UniBridge CRM</a></h3>
@@ -209,6 +209,19 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🤖 <a href="https://www.britannicabots.com/">Britannica Bots</a></h3>
+      <p><b>Enterprise AI & Intelligent Automation Solutions Platform</b></p>
+      <p>Enterprise AI and automation platform delivering custom LLM integrations, Retrieval-Augmented Generation (RAG) architecture, OCR intelligence, multi-channel smart bots, and autonomous enterprise workflow automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
+        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/AI%20%26%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI & LLMs" />
+      </p>
+      <p>🔗 <a href="https://www.britannicabots.com/"><b>Visit britannicabots.com →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏔️ <a href="https://anmolyatra.com/">Anmol Yatra</a></h3>
       <p><b>Uttarakhand Tour Packages & Pilgrimage Travel Portal</b></p>
       <p>Full-featured travel agency and transportation booking portal based in Rishikesh. Provides Char Dham Yatra pilgrimage packages, private taxi and Tempo Traveller rental bookings, customizable Himalayan itineraries, dynamic quote generation, and lead management.</p>
@@ -221,28 +234,15 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
       </p>
       <p>🔗 <a href="https://anmolyatra.com/"><b>Visit anmolyatra.com →</b></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://justeducation.in/">JustEducation</a></h3>
-      <p><b>National College Discovery & Education Search Portal</b></p>
-      <p>High-traffic educational portal cataloging 15,000+ top colleges, universities, and coaching centers across India. Enables prospective students to search, filter, and compare institutes by stream, entrance exams, rankings, fee structures, verified placement reviews, and book career counselling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-      </p>
-      <p>🔗 <a href="https://justeducation.in/"><b>Visit justeducation.in →</b></a></p>
-    </td>
   </tr>
 </table>
 
 | Project | Domain | Overview & Core Capabilities | Live URL |
 | :--- | :--- | :--- | :--- |
-| **[Britannica Bots](https://www.britannicabots.com/)** | Enterprise AI & Automation | Custom LLM integrations, RAG architecture, OCR intelligence, automated workflows, and smart bots | [britannicabots.com](https://www.britannicabots.com/) |
-| **[UniBridge CRM](https://unibridgecrm.com/)** | Higher Education Admissions CRM | Multi-role portals (Students/Agents/Admins), application tracking, commission engine, document verification | [unibridgecrm.com](https://unibridgecrm.com/) |
-| **[Anmol Yatra](https://anmolyatra.com/)** | Travel & Pilgrimage Portal | Char Dham Yatra tours, private taxi & Tempo Traveller fleet rentals, customizable Himalayan itineraries | [anmolyatra.com](https://anmolyatra.com/) |
 | **[JustEducation](https://justeducation.in/)** | College Discovery & Search | Directory of 15,000+ colleges & coaching centers, entrance exams, fee comparison, verified student reviews | [justeducation.in](https://justeducation.in/) |
+| **[UniBridge CRM](https://unibridgecrm.com/)** | Higher Education Admissions CRM | Multi-role portals (Students/Agents/Admins), application tracking, commission engine, document verification | [unibridgecrm.com](https://unibridgecrm.com/) |
+| **[Britannica Bots](https://www.britannicabots.com/)** | Enterprise AI & Automation | Custom LLM integrations, RAG architecture, OCR intelligence, automated workflows, and smart bots | [britannicabots.com](https://www.britannicabots.com/) |
+| **[Anmol Yatra](https://anmolyatra.com/)** | Travel & Pilgrimage Portal | Char Dham Yatra tours, private taxi & Tempo Traveller fleet rentals, customizable Himalayan itineraries | [anmolyatra.com](https://anmolyatra.com/) |
 
 ---
 
@@ -278,9 +278,9 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg?v=2">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg?v=3">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/output/pacman-contribution-graph.svg?v=3" width="100%">
   </picture>
 </p>
 
