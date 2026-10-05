@@ -50,7 +50,7 @@ jobs:
       - name: Push generated files
         run: |
           git config --global user.name 'codewithritik02'
-          git config --global user.email 'contact.ritiksaini@gmail.com'
+          git config --global user.email 'ritiksainiritiksaini6@gmail.com'
           git pull --rebase --autostash
           git add output/ profile-3d-contrib/
           git commit -m 'chore: refresh profile stat cards' || echo "No changes to commit"
