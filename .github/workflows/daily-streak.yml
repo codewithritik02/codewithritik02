@@ -33,5 +33,17 @@ jobs:
           git config --global user.email "ritiksainiritiksaini6@gmail.com"
           git pull --rebase --autostash
           git add .github/daily-streak.txt
-          git commit -m "chore(streak): daily contribution $(date -u +'%Y-%m-%d')"
+          MESSAGES=(
+            "👋 Hello World! wishing everyone happy coding"
+            "☕ Coffee ➜ Code ➜ Repeat: keep building"
+            "🙏 Namaste Coders: sending good vibes & clean code"
+            "🚀 Ship it: one commit closer to greatness"
+            "✨ Pushing pixels & building dreams"
+            "💻 Talk is cheap, show me the code: happy coding"
+            "🌟 Keep calm & git commit: another productive day"
+          )
+          DAY_OF_YEAR=$(date -u +'%j')
+          INDEX=$(( 10#$DAY_OF_YEAR % ${#MESSAGES[@]} ))
+          COMMIT_MSG="${MESSAGES[$INDEX]} • $(date -u +'%Y-%m-%d')"
+          git commit -m "$COMMIT_MSG"
           git push origin main
