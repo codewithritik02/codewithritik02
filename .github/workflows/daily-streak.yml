@@ -42,8 +42,22 @@ jobs:
             "💻 Talk is cheap, show me the code: happy coding"
             "🌟 Keep calm & git commit: another productive day"
           )
-          DAY_OF_YEAR=$(date -u +'%j')
+          DESCRIPTIONS=(
+            "Starting the day with positive energy and clean code. Wishing all fellow developers a productive day!"
+            "Fueled by curiosity, caffeine, and dedication. Building innovative solutions one line at a time."
+            "Respecting the journey and continuous learning. Sending warm greetings and positivity to the community!"
+            "Consistency is key. Every small commit brings us closer to building something truly impactful."
+            "Crafting smooth experiences, responsive UIs, and robust architectures. Passionate about web development."
+            "Actions speak louder than words. Writing reliable, clean, and maintainable code every single day."
+            "Staying focused, disciplined, and never breaking the chain. Keep moving forward!"
+          )
+          DAY_OF_YEAR=$(date -u +'%-j')
+          YEAR=$(date -u +'%Y')
+          DATE_STR=$(date -u +'%Y-%m-%d')
           INDEX=$(( 10#$DAY_OF_YEAR % ${#MESSAGES[@]} ))
-          COMMIT_MSG="${MESSAGES[$INDEX]} • $(date -u +'%Y-%m-%d')"
-          git commit -m "$COMMIT_MSG"
+          TITLE="${MESSAGES[$INDEX]} • Day ${DAY_OF_YEAR} of ${YEAR}"
+          BODY="🗓️ Day ${DAY_OF_YEAR} of ${YEAR} • ${DATE_STR}
+✨ ${DESCRIPTIONS[$INDEX]}
+🚀 Automated daily streak check-in by GitHub Actions"
+          git commit -m "$TITLE" -m "$BODY"
           git push origin main
