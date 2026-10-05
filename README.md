@@ -253,25 +253,25 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 
 <div align="center">
 
-<!-- Realtime Weekly Contribution Graph -->
+<!-- All-time Monthly Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph-dark.svg?v=2026.2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph.svg?v=2026.2" />
-  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph.svg?v=2026.2" alt="Contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph-dark.svg?v=2026.10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph.svg?v=2026.10" />
+  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/activity-graph.svg?v=2026.10" alt="Contribution activity" />
 </picture>
 
 <br/><br/>
 
 <!-- Realtime Streak Stats (2026 Live) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats-dark.svg?v=2026.2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats.svg?v=2026.2" />
-  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats-dark.svg?v=2026.2" alt="Ritik's GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats-dark.svg?v=2026.10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats.svg?v=2026.10" />
+  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/output/streak-stats-dark.svg?v=2026.10" alt="Ritik's GitHub Streak" />
 </picture>
 
 <br/><br/>
 
-<sub>Live contribution activity and streak charts automatically updated daily by GitHub Actions.</sub>
+<sub>All-time contributions (public + private) since my first commit, refreshed automatically every 6 hours by GitHub Actions.</sub>
 
 </div>
 
@@ -292,8 +292,10 @@ I turn ideas into reliable software — from intuitive frontend experiences and 
 ## 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/profile-3d-contrib/profile-night-rainbow.svg?v=2026.2" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/codewithritik02/codewithritik02/main/profile-3d-contrib/profile-night-rainbow.svg?v=2026.10" alt="3D Contribution Graph" width="100%" />
 </p>
+
+<p align="center"><sub>3D view of the last 12 months of contributions. The number next to the star icon is total stars across my repositories.</sub></p>
 
 ---
 

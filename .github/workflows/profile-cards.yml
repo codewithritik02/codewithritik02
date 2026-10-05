@@ -2,7 +2,11 @@ name: Generate Profile Cards
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    # Every 6 hours so the total and streak pick up new contributions the same day
+    - cron: "30 */6 * * *"
+  workflow_run:
+    workflows: ["Daily Streak Keeper"]
+    types: [completed]
   push:
     branches: [main]
     paths:
@@ -20,7 +24,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -33,12 +37,15 @@ jobs:
 
       - name: Generate stat cards
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: |
-          node scripts/generate-cards.mjs
-          node scripts/update-3d-contrib.mjs
+        run: node scripts/generate-cards.mjs
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Push generated files
         run: |
