@@ -14,13 +14,13 @@
   <line x1="46" y1="198.0" x2="796" y2="198.0" stroke="#e3e6ea" stroke-width="1" stroke-dasharray="3,3" />
   <text x="38" y="202.0" class="muted" text-anchor="end">0</text>
   <line x1="46" y1="129.0" x2="796" y2="129.0" stroke="#e3e6ea" stroke-width="1" stroke-dasharray="3,3" />
-  <text x="38" y="133.0" class="muted" text-anchor="end">254</text>
+  <text x="38" y="133.0" class="muted" text-anchor="end">264</text>
   <line x1="46" y1="60.0" x2="796" y2="60.0" stroke="#e3e6ea" stroke-width="1" stroke-dasharray="3,3" />
-  <text x="38" y="64.0" class="muted" text-anchor="end">508</text>
-  <polygon points="46,198 46.0,194.5 114.2,173.6 182.4,195.8 250.5,156.2 318.7,139.1 386.9,132.0 455.1,167.8 523.3,183.6 591.5,148.0 659.6,97.5 727.8,60.0 796.0,60.5 796,198" fill="url(#areaGrad)" />
-  <polyline points="46.0,194.5 114.2,173.6 182.4,195.8 250.5,156.2 318.7,139.1 386.9,132.0 455.1,167.8 523.3,183.6 591.5,148.0 659.6,97.5 727.8,60.0 796.0,60.5" fill="none" stroke="#764ba2" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-  <circle cx="727.8" cy="60.0" r="4" fill="#764ba2" />
-  <circle cx="727.8" cy="60.0" r="8" fill="#764ba2" fill-opacity="0.25" />
+  <text x="38" y="64.0" class="muted" text-anchor="end">527</text>
+  <polygon points="46,198 46.0,194.6 114.2,174.4 182.4,195.9 250.5,157.7 318.7,141.2 386.9,134.4 455.1,168.9 523.3,184.1 591.5,149.8 659.6,101.1 727.8,65.0 796.0,60.0 796,198" fill="url(#areaGrad)" />
+  <polyline points="46.0,194.6 114.2,174.4 182.4,195.9 250.5,157.7 318.7,141.2 386.9,134.4 455.1,168.9 523.3,184.1 591.5,149.8 659.6,101.1 727.8,65.0 796.0,60.0" fill="none" stroke="#764ba2" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="796.0" cy="60.0" r="4" fill="#764ba2" />
+  <circle cx="796.0" cy="60.0" r="8" fill="#764ba2" fill-opacity="0.25" />
   <text x="46.0" y="216" class="muted" text-anchor="middle">Nov</text>
   <text x="114.2" y="216" class="muted" text-anchor="middle">Dec</text>
   <text x="182.4" y="216" class="muted" text-anchor="middle">Jan</text>
@@ -33,5 +33,5 @@
   <text x="659.6" y="216" class="muted" text-anchor="middle">Aug</text>
   <text x="727.8" y="216" class="muted" text-anchor="middle">Sep</text>
   <text x="796.0" y="216" class="muted" text-anchor="middle">Oct</text>
-  <text x="796" y="34" class="muted" text-anchor="end">Monthly contributions (2,457 in the last 12 months)</text>
+  <text x="796" y="34" class="muted" text-anchor="end">Monthly contributions (2,478 in the last 12 months)</text>
 </svg>
